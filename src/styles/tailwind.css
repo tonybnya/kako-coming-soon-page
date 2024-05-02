@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "lato";
+  src: url(/assets/fonts/Lato.ttf);
+}
+
+@font-face {
+  font-family: "lato-bold";
+  src: url(/assets/fonts/Lato-Bold.ttf);
+}
+
+@font-face {
+  font-family: "montserrat";
+  src: url(/assets/fonts/Montserrat.ttf);
+}
+
+@font-face {
+  font-family: "montserrat-bold";
+  src: url(/assets/fonts/Montserrat-Bold.ttf);
+}
+
+@font-face {
+  font-family: "open-sans";
+  src: url(/assets/fonts/OpenSans.ttf);
+}
+
+@font-face {
+  font-family: "open-sans-bold";
+  src: url(/assets/fonts/OpenSans-Bold.ttf);
+}
+
+@font-face {
+  font-family: "source-sans-3";
+  src: url(/assets/fonts/SourceSans3.ttf);
+}
+
+@font-face {
+  font-family: "source-sans-3-bold";
+  src: url(/assets/fonts/SourceSans3-Bold.ttf);
+}
+
+@font-face {
+  font-family: "righteous";
+  src: url(/assets/fonts/Righteous.ttf);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
